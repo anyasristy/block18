@@ -30,9 +30,9 @@ Write code according to the provided prompts. You are highly encouraged to revie
 >
 > ```js
 > $app.innerHTML = `
->    <tbody id="FreelancerRows"></tbody>
+>    <tbody id="rows"></tbody>
 > `;
-> $app.querySelector("#FreelancerRows").replaceWith(FreelancerRows());
+> $app.querySelector("#rows").replaceWith(rows());
 > ```
 
 ## Submission

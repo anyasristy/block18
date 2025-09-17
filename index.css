@@ -1,0 +1,30 @@
+body {
+  font-family: Georgia, "Times New Roman", serif;
+  background-color: white;
+  margin: 40px;
+  text-align: center;
+}
+h1 {
+  font-size: 28px;
+  margin-bottom: 5px;
+}
+h2 {
+  font-size: 16px;
+  font-weight: normal;
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+table {
+  margin: 0 auto;
+  border-collapse: collapse;
+  width: 80%;
+}
+th, td {
+  border: 1px solid black;
+  padding: 8px 12px;
+  text-align: left;
+}
+th {
+  font-weight: bold;
+  background-color: #f2f2f2;
+}
